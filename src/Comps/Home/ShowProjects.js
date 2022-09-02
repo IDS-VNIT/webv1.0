@@ -3,6 +3,7 @@ import Dashboard from "../../Assets/dashboard.png";
 import URL from "../../Assets/url.jpg";
 
 function ShowProjects() {
+
   return (
     <section>
       <h1 className="text-center text-5xl font-bold underline my-20">
@@ -60,6 +61,7 @@ function ShowProjects() {
         </div>
       </div>
     </section>
+   
   );
 }
 

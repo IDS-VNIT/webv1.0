@@ -3,7 +3,7 @@ import BG from "../../Assets/bg.jpg";
 
 function Hero() {
   return (
-    <div className="grid grid-cols-2 mt-20 px-20">
+    <div className="grid grid-cols-2 mt-20 px-20 md:flex-row flex-grow">
       <div className="flex flex-col">
         <h1 className="font-extrabold text-8xl z-50">web.</h1>
         <div className="bg-gradient-to-r from-idsBlue to-idsGreen w-60 h-6 -mt-8 z-10 mb-6"></div>
