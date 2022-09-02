@@ -12,7 +12,7 @@ function WhatWeDO() {
       <h1 className="text-center text-5xl font-bold underline my-20">
         what we do?
       </h1>
-      <div className="flex justify-between">
+      <div className="sm:flex justify-between">
         <div className="w-72 h-72 bg-idsBlue relative">
           <div className="w-72 h-72 bg-[#e6f3ff] bottom-2 right-2 absolute p-8">
             <div className="w-20 h-20 rounded-full bg-idsBlue mb-8 flex justify-center items-center">

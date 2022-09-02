@@ -9,9 +9,9 @@ function ShowProjects() {
       <h1 className="text-center text-5xl font-bold underline my-20">
         projects
       </h1>
-      <div className="flex h-screen px-20 my-20">
-        <div className="w-1/5  bg-gradient-to-b from-idsGreen to-idsBlue flex items-center justify-center">
-          <p className="-rotate-90 text-9xl font-black text-white">web</p>
+      <div className="sm:flex h-screen px-20 my-20">
+        <div className="sm:w-1/5 bg-gradient-to-b from-idsGreen to-idsBlue flex flex-col items-center justify-center">
+          <p className="lg:-rotate-90 text-9xl font-black text-white">web</p>
         </div>
         <div className="flex border flex-col justify-center items-center">
           <div className="flex justify-between">
